@@ -1,0 +1,10 @@
+<package>
+    <name>my_package</name>
+    <version>0.1.0</version>
+    <description>
+    Package with code for MIT duckietown robots to function.
+    </description>
+    <maintainer email="framazan@davidsonacademy.unr.edu">Filip Ramazan</maintainer>
+    <license>None</license>
+    <buildtool_depend>catkin</buildtool_depend>
+</package>
