@@ -1,6 +1,6 @@
 # parameters
 ARG REPO_NAME="duckiebot_ros"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
+ARG DESCRIPTION="This docker container is for an autonomous robotics experiment."
 ARG MAINTAINER="Filip Ramazan (framazan@davidsonacademy.unr.edu)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="bandcamp"
