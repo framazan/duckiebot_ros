@@ -2,7 +2,7 @@
     <name>my_package</name>
     <version>0.1.0</version>
     <description>
-    Package with code for MIT duckietown robots to function.
+    Package with code for MIT duckietown robots to function semi-autonomously.
     </description>
     <maintainer email="framazan@davidsonacademy.unr.edu">Filip Ramazan</maintainer>
     <license>None</license>
