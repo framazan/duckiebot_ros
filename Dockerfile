@@ -3,12 +3,12 @@ ARG REPO_NAME="duckiebot_ros"
 ARG DESCRIPTION="This docker container is for an autonomous robotics experiment."
 ARG MAINTAINER="Filip Ramazan (framazan@davidsonacademy.unr.edu)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
-ARG ICON="bandcamp"
+ARG ICON="sliders"
 
 # ==================================================>
 # ==> Do not change the code below this line
-ARG ARCH=arm64v8
-ARG DISTRO=ente
+ARG ARCH=arm32v7
+ARG DISTRO=daffy
 ARG BASE_TAG=${DISTRO}-${ARCH}
 ARG BASE_IMAGE=dt-ros-commons
 ARG LAUNCHER=default
