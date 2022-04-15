@@ -1,0 +1,2 @@
+duckietown:duckietown_msgs
+-DCATKIN_DEVEL_PREFIX=/home/filip/duckiebot_ros/devel -DCMAKE_INSTALL_PREFIX=/home/filip/duckiebot_ros/install -G Unix Makefiles
